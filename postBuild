@@ -4,13 +4,13 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable exercise2/main --sys-prefix
 
 echo "downloading track_information (this may take a while ~144MB!)..."
-wget -O track_info.pkl "https://cernbox.cern.ch/s/mD0MkmYmpR0Bg9f"
+wget -O track_info.pkl "https://cernbox.cern.ch/remote.php/dav/public-files/mD0MkmYmpR0Bg9f/track_info.pkl"
 echo "done!"
 
 echo "downloading event_information..."
-wget -O event_information.csv "https://cernbox.cern.ch/s/JZ4GSjKzdCG2Zto"
+wget -O event_information.csv "https://cernbox.cern.ch/remote.php/dav/public-files/JZ4GSjKzdCG2Zto/event_information.csv"
 echo "done!"
 
 echo "downloading pp_reference..."
-wget -O pp_reference.dat "https://cernbox.cern.ch/s/YbVgTJ0OvhQRRUz"
+wget -O pp_reference.dat "https://cernbox.cern.ch/remote.php/dav/public-files/YbVgTJ0OvhQRRUz/pp_reference.dat"
 echo "done!"
