@@ -9,3 +9,8 @@ Cvičenie pozostáva z troch častí:
 3) Analýza dát experimentu ALICE
 
 ## Úvod do Masterclasses:
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA.git/main?labpath=ALICE_RAA_python_uvod.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA.git/main?labpath=ALICE_RAA_python_uvod.ipynb
