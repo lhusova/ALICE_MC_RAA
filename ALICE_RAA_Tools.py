@@ -42,7 +42,7 @@ def get_bins():
            9, 10,11, 12, 13, 14, 15]
     return fBinsPt
 
-def fehlerberechnung(h1, h1err, nc1, h2, h2err, nc2):
+def uncertaintyCalculation(h1, h1err, nc1, h2, h2err, nc2):
     return np.sqrt((np.divide(h1err*nc2,h2*nc1))**2 + (np.divide(h1*nc2*h2err,h2*h2*nc1))**2)
 
 #def fill_hist(hist, bins, value):
