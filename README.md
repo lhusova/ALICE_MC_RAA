@@ -1,4 +1,4 @@
-# Vytajte pri Materclasses experimentu ALICE na tému jadrový modifikačného faktoru R<sub>AA</sub>!
+# Vitajte pri Materclasses experimentu ALICE na tému: Jadrový modifikačného faktor R<sub>AA</sub>!
 
 Cvičenie pozostáva z troch častí:
 
@@ -22,7 +22,7 @@ Po úvode nasleduje cvičenie, kde sa počíta jadrový modifikačný faktor R<s
 
 *  0-5%
 * 10-20%
-* 30-40% 
+* 30-40%
 * 40-50%
 * 70-80%
 
