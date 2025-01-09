@@ -18,7 +18,7 @@ Tento úvod poskytuje základy použitého programovacieho jazyka __Python__ spo
 
 ## R_AA Masterclasses:
 
-Po úvode nasleduje cvičenie, kde sa počíta jadrový modifikačný faktor R<sub>AA</sub> pre nasledujúce centralitné triedy:
+Po úvode nasleduje cvičenie, kde sa zjednodušene počíta jadrový modifikačný faktor R<sub>AA</sub> pre nasledujúce centralitné triedy:
 
 *  0-5%
 *  5-10%
@@ -30,5 +30,14 @@ Po úvode nasleduje cvičenie, kde sa počíta jadrový modifikačný faktor R<s
 * 50-60%
 * 60-70%
 * 70-80%
+
+A dva intervaly priečnej hybnosti:
+
+* 5-6 GeV/c
+* 10-12 GeV/c
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA_kratke.ipynb)
+
+Pri reálnej analýze dát sa počítajú celé hybnostné spektrá
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA.ipynb)
