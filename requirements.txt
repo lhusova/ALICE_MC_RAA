@@ -3,4 +3,6 @@ matplotlib
 pandas
 nbresuse[resources]
 jupyter_contrib_nbextensions
+rubberband
 exercise2
+ipywidgets

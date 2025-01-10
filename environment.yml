@@ -1,0 +1,5 @@
+dependencies:
+  - python=3.9
+  - notebook
+  - jupyter_contrib_nbextensions
+  - ipywidgets
