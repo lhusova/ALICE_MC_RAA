@@ -15,7 +15,7 @@ Tento úvod poskytuje základy použitého programovacieho jazyka __Python__ spo
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA_python_uvod.ipynb)
 
 Riešenia nájdete v nasledujúcon notebooku:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=%2Fdoc%2Ftree%2FALICE_RAA_python_uvod_risenia.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA_python_uvod_risenia.ipynb)
 
  (Chvíľu to môže trvať, kým sa celé prostredie načíta. Prosím, dajte pozor na to, že po 10 minútach nečinnosti vyprší čas a prostredie sa musí celé načítať odznova a všetky zmeny budú stratené)
 
