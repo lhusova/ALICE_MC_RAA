@@ -41,6 +41,8 @@ A dva intervaly priečnej hybnosti:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA_kratke.ipynb)
 
+Riešenia k úloham nájdete: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA_kratke_riesenia.ipynb)
+
 Pri reálnej analýze dát sa počítajú celé hybnostné spektrá
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA.ipynb)
