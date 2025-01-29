@@ -1,6 +1,6 @@
-numpy
-matplotlib
-pandas
+numpy==2.2.2
+matplotlib==3.10.0
+pandas==2.2.3
 nbresuse[resources]
 jupyter_contrib_nbextensions
 rubberband
