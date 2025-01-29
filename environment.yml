@@ -1,8 +1,6 @@
+name: python 3.9
 dependencies:
   - python=3.9
   - notebook
   - numpy
   - pandas
-  - jupyter_contrib_nbextensions
-  - ipywidgets
-  - exercise2
