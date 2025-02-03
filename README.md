@@ -46,3 +46,6 @@ Riešenia k úloham nájdete: [![Binder](https://mybinder.org/badge_logo.svg)](h
 Pri reálnej analýze dát sa počítajú celé hybnostné spektrá
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA.ipynb)
+
+Notebook na vyhodnotenie:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA_Vyhodnotenie.ipynb)
