@@ -4,3 +4,4 @@ dependencies:
   - notebook
   - numpy
   - pandas
+  - matplotlib
