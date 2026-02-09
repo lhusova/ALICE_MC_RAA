@@ -25,19 +25,15 @@ Po úvode nasleduje cvičenie, kde sa zjednodušene počíta jadrový modifikač
 
 *  0-5%
 *  5-10%
-*  0-10%
-* 10-20%
-* 20-30%
-* 30-40%
-* 40-50%
-* 50-60%
-* 60-70%
-* 70-80%
+*  10-30%
+*  30-50%
 
-A dva intervaly priečnej hybnosti:
+A štyri intervaly priečnej hybnosti:
 
 * 5-6 GeV/c
-* 10-12 GeV/c
+* 6-7 GeV/c
+* 7-9 GeV/c
+* 9-12 GeV/c
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhusova/ALICE_MC_RAA/main?filepath=ALICE_RAA_kratke.ipynb)
 
